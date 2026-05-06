@@ -1,5 +1,4 @@
-Автор: Камила Ордокова
-Ссылка: https://github.com/MLera67/Currency-Converter
+Автор: Заракушева Арнэлла
 # Currency-Converter
 Пошаговая инструкция:
 1. Создайте интерфейс:
